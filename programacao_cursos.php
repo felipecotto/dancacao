@@ -35,12 +35,12 @@
         <section id="home">
             <div class="container">
                 <h2 class="title margin-bottom-25">Programação</h2>
-                <p class="text-uppercase atalhos">
+     <!--            <p class="text-uppercase atalhos">
                     <strong>Atalhos > </strong>
                     <a href="programacao.php#home">Mostra Competitiva </a> | 
                     <a href="programacao_cursos.php#home">Cursos e Palestras </a> | 
                     <a href="programacao_gratuitas.php#home"> Oficinas Gratuitas </a> | 
-                </p>
+                </p> -->
             </div>
         </section>
         <section class="bg-gray-light clearfix" id="mostra">
@@ -62,7 +62,7 @@
                             <table class="table cursos">
                                 <tbody>
                                     <tr>
-                                        <td><strong>Hora <br /> 09h às 10:30</strong></td>
+                                        <td><strong>Hora <br /> 09h às 10h30</strong></td>
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p>Infaltil/Juvenil</p>
@@ -76,7 +76,7 @@
                                         <td><strong> 9h às 12h</strong></td>
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Renata Pacheco</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
@@ -84,10 +84,10 @@
                                     </tr>
    
                                     <tr>
-                                        <td><strong> 10:45h às 12:15</strong></td>
+                                        <td><strong> 10h45 às 12h15</strong></td>
                                         <td>
                                             <p><strong> Jazz </strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
@@ -104,20 +104,20 @@
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 13:30h às 15h </strong></td>
+                                        <td><strong> 13h30 às 15h </strong></td>
                                         <td>
                                             <p><strong> Pas de Deux  </strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>  Prof. Jolles Salles</p>
                                             <p><strong> TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15h às 16:45h </strong></td>
+                                        <td><strong> 15h15 às 16h45 </strong></td>
                                         <td>
                                             <p><strong> Danças Urbanas </strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p> Prof. Fran Manson</p>
                                             <p><strong> TENDA 2 - TMTV</strong></p>
                                         </td>
@@ -142,10 +142,10 @@
                             <table class="table cursos">
                                 <tbody>
                                     <tr>
-                                        <td><strong>Hora <br /> 09h às 10:30h</strong></td>
+                                        <td><strong>Hora <br /> 09h às 10h30</strong></td>
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
-                                            <p> Inter./Avançado</p>
+                                            <p> Inter/Avançado</p>
                                             <p>Prof. Renata Pacheco</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
@@ -160,41 +160,41 @@
                                     <tr>
                                         <td><strong> 09h às 12h</strong></td>
                                         <td>
-                                            <p><strong>Sapateado Americano.</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p><strong>Sapateado Americano</strong></p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Juliana Garcia</p>
                                             <p><strong>TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 10:0h às 13h</strong></td>
+                                        <td><strong> 10h às 13h</strong></td>
                                         <td>
                                             <p><strong>  </strong></p>
                                             <p> </p>
                                             <p>Prof. Suely Machado </p>
-                                            <p><strong>BIBLIOTECA MUNICIPALPAL</strong></p>
+                                            <p><strong>BIBLIOTECA MUNICIPAL</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 10:45h às 12:15h</strong></td>
+                                        <td><strong> 10h45 às 12h15</strong></td>
                                         <td>
                                             <p><strong>Pas de Deux</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Jolles Salles</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td>
                                             <p><strong>Jazz</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="1"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 10:45h às 12:15h </strong></td>
+                                        <td><strong> 10h45 às 12h15 </strong></td>
                                         <td>
                                             <p><strong> Palestra </strong></p>
                                             <p>Concepção de Figurino</p>
@@ -207,24 +207,24 @@
                                         <td><strong> 13h às 17h </strong></td>
                                         <td>
                                             <p><strong> Contemporâneo </strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Bruno Gregório</p>
                                             <p><strong> TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15h às 16:45h </strong></td>
+                                        <td><strong> 15h15 às 16h45 </strong></td>
                                         <td>
                                             <p><strong> Danças Urbanas </strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p> Prof. Fran Manson</p>
                                             <p><strong> TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15h às 17:15h </strong></td>
+                                        <td><strong> 15h15 às 17h15 </strong></td>
                                         <td>
                                             <p><strong>Danças Árabes</strong></p>
                                             <!-- <p> Improvisação em Dança</p> -->
@@ -252,7 +252,7 @@
                             <table class="table cursos">
                                 <tbody>
                                     <tr>
-                                        <td><strong>Hora <br /> 09h às 10:30h</strong></td>
+                                        <td><strong>Hora <br /> 09h às 10h30</strong></td>
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p> Infantil / Juvenil</p>
@@ -260,15 +260,15 @@
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td>
-                                            <p><strong> Sapateado Americano.</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p><strong> Sapateado Americano</strong></p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Juliana Garcia</p>
                                             <p><strong>TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong>Hora <br /> 10h às 13h</strong></td>
+                                        <td>10h às 13h</strong></td>
                                         <td>
                                             <p><strong>Palestra</strong></p>
                                             <p>"Nada é por acaso"</p>
@@ -278,33 +278,33 @@
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 10:45h às 12:15h</strong></td>
+                                        <td><strong> 10h45 às 12h15</strong></td>
                                         <td>
                                             <p><strong>Pas de Deux</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Jolles Salles</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td>
                                             <p><strong>Jazz</strong></p>
-                                            <p>Inter./Avançado</p>
+                                            <p>Inter/Avançado</p>
                                             <p>Prof. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 13:30h às 15h</strong></td>
+                                        <td><strong> 13h30 às 15h</strong></td>
                                         <td>
                                             <p><strong>Contemporâneo</strong></p>
-                                            <p>Inter.Avançado</p>
+                                            <p>InterAvançado</p>
                                             <p>Prof. Bruno Gregório</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 13:30h às 15:30h </strong></td>
+                                        <td><strong> 13h30 às 15h30 </strong></td>
                                         <td>
                                             <p><strong>Dança de Salão</strong></p>
                                             <p>Prof. Rodrigo Oliveira</p>
@@ -314,20 +314,20 @@
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15 às 16:45 </strong></td>
+                                        <td><strong> 15h15 às 16h45 </strong></td>
                                         <td>
                                             <p><strong> Danças Urbanas </strong></p>
-                                            <p> Inter./Avançado </p>
+                                            <p> Inter/Avançado </p>
                                             <p> Prof. Fran Manson </p>
                                             <p><strong> TENDA 2 - TMTV </strong></p>
                                         </td>
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15 às 17:45 </strong></td>
+                                        <td><strong> 15h15 às 17h45 </strong></td>
                                         <td>
                                             <p><strong> Danças Flamenca </strong></p>
-                                            <!-- <p> Inter. Avançado </p> -->
+                                            <!-- <p> Inter Avançado </p> -->
                                             <p> Prof. André Pimentel</p>
                                             <p><strong> TENDA 3 - TMTV </strong></p>
                                         </td>

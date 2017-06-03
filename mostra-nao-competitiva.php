@@ -28,22 +28,15 @@
 
         <?php include 'layouts/_banner.php';?>
         <?php include 'layouts/_header.php';?>
-        <div class="banner-2 page-5 margin-bottom-25">
+        <div class="banner-2 page-4 margin-bottom-25">
 
         </div>
         
         <section id="home">
             <div class="container">
-                <h2 class="title margin-bottom-25">Cursos e Palestras</h2>
-                <div class="margin-bottom-25">
-                    <p class="text-justify margin-bottom-25">O Festival DancAção oferece em sua programação de cursos e palestras três linhas de aulas:</p>
-                    <p>- Cursos destinados a bailarinos;</p>
-                    <p>- Cursos para professores e/ou profissionais da dança e</p>
-                    <p>- Oficinas para a popilação em geral.</p>
-                </div>
-                <div class="text-center">
-                    <a href="http://festivaldancacao.com.br/cursos-e-palestras" class="btn-pad">Veja os cursos e palestras oferecidos e inscreva-se</a>
-                </div>
+                <h2 class="title margin-bottom-25">Mostra não competitiva</h2>
+                <p class="text-justify margin-bottom-25">Mostra Coreográfica em palcos abertos pela cidade, localizados em Shoppings, Praças, Parques, Hospital Infantil do Câncer, Casas Abrigos, Instituições Públicas ou Privadas e no Complexo do Festival.</p>
+                <p>*Como se trata de um festival de caráter sociocultural, todos os grupos participantes da Mostra Competitiva estão convidados a se apresentarem nas Mostras Não Competitivas, podendo participar com até 4 (quatro) coreografias por grupo. Participe! A sua arte certamente levará alegria a muitas pessoas e poderá transformar a vida de jovens e crianças que pela primeira vez terão a oportunidade de ver a sua dança como linguagem artística e poder, assim, desfrutar de uma experiência estética ímpar. Todos os lugares públicos contam com segurança, infraestrutura e logística apropriada. </p>
             </div>
         </section>
 

@@ -35,12 +35,12 @@
         <section id="home">
             <div class="container">
                 <h2 class="title margin-bottom-25">Programação</h2>
-                <p class="text-uppercase atalhos">
+<!--                 <p class="text-uppercase atalhos">
                     <strong>Atalhos > </strong>
                     <a href="programacao.php#home">Mostra Competitiva </a> | 
                     <a href="programacao_cursos.php#home">Cursos e Palestras </a> | 
                     <a href="programacao_gratuitas.php#home"> Oficinas Gratuitas </a> |
-                </p>
+                </p> -->
             </div>
         </section>
         <section class="bg-gray-light clearfix" id="mostra">
@@ -72,7 +72,7 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15h às 16:45h</strong></td>
+                                        <td><strong> 15h15 às 16h45</strong></td>
                                         <td>
                                             <p><strong>Ballet para Crianças</strong></p>
                                             <p>Prof. Doris Garcia</p>
@@ -81,7 +81,7 @@
                                         <td colspan="3"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 15:15h às 17:15</strong></td>
+                                        <td><strong> 15h15 às 17h15</strong></td>
                                         <td>
                                             <p><strong> Improvisação em Dança </strong></p>
                                             <p>Prof. Graça Giradi</p>
@@ -145,7 +145,7 @@
                             <table class="table gratuitas">
                                 <tbody>
                                     <tr>
-                                        <td><strong>Hora <br /> 13:30h</strong></td>
+                                        <td><strong>Hora <br /> 13h30</strong></td>
                                         <td>
                                             <p><strong>Jam Session de Danças Urbanas</strong></p>
                                             <p> Coord. Bruno Antônio</p>
@@ -154,7 +154,7 @@
                                         <td colspan="3"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong>Hora <br /> 15:15h às 16:45h</strong></td>
+                                        <td> <strong>15h15 às 16h45</strong></td>
                                         <td>
                                             <p><strong>Dança Sociais</strong></p>
                                             <p> Prof. Eduardo Carriel </p>

@@ -29,4 +29,24 @@ header {
 	text-align: center;
 	display: block;
 	font-weight: 600;
+	text-decoration: none;
+}
+
+.side-nav ul li a:hover {
+	text-decoration: none;
+}
+
+.dropdown-menu {
+	border-radius: 0;
+}
+
+ul.dropdown-menu li {
+    display: block;
+    width: 100%;
+    border: none;
+}
+
+ul.dropdown-menu li a {
+    color: #252525;
+    text-align: left;
 }

@@ -69,6 +69,12 @@ body {
 	box-shadow: 3px 4px #e8ce5c;
 	position: relative;
 	display: inline-block;
+	text-decoration: none;
+}
+
+.btn-pad:hover {
+	text-decoration: none; 
+	color: #353535;
 }
 
 .btn-pad:before {
@@ -216,11 +222,15 @@ aside.social-media a i.fa-envelope-o {
 .table.cursos>tbody>tr>td:first-child {
     background: #d0e2e6;
     font-size: 18px;
+    width: 230px;
+    max-width: 230px;
 }
 
 .table.gratuitas>tbody>tr>td:first-child {
     background: #f3c49f;
     font-size: 18px;
+    width: 230px;
+    max-width: 230px;
 }
 
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {

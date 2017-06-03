@@ -35,12 +35,12 @@
         <section id="home">
             <div class="container">
                 <h2 class="title margin-bottom-25">Programação</h2>
-                <p class="text-uppercase atalhos">
+<!--                 <p class="text-uppercase atalhos">
                     <strong>Atalhos > </strong>
                     <a href="programacao.php#home">Mostra Competitiva </a> | 
                     <a href="programacao_cursos.php#home">Cursos e Palestras </a> | 
                     <a href="programacao_gratuitas.php#home"> Oficinas Gratuitas </a> | 
-                </p>
+                </p> -->
             </div>
         </section>
         <section class="bg-gray-light clearfix" id="mostra">
