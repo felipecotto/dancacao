@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Festival DancAção 2017</title>
+        <title>Festival DançAção 2017</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -66,7 +66,7 @@
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p>Infaltil/Juvenil</p>
-                                            <p>Prof. Silvana Franzoi</p>
+                                            <p>Profª. Silvana Franzoi</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2">
@@ -77,7 +77,7 @@
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>Prof. Renata Pacheco</p>
+                                            <p>Profª. Renata Pacheco</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -88,7 +88,7 @@
                                         <td>
                                             <p><strong> Jazz </strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>Prof. Eliane Fetzer</p>
+                                            <p>Profª. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -108,7 +108,7 @@
                                         <td>
                                             <p><strong> Pas de Deux  </strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>  Prof. Jolles Salles</p>
+                                            <p>Prof. Jolles Salles</p>
                                             <p><strong> TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -118,7 +118,7 @@
                                         <td>
                                             <p><strong> Danças Urbanas </strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p> Prof. Fran Manson</p>
+                                            <p> Profª. Fran Manson</p>
                                             <p><strong> TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -146,13 +146,13 @@
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p> Inter/Avançado</p>
-                                            <p>Prof. Renata Pacheco</p>
+                                            <p>Profª. Renata Pacheco</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p> Infantil / Juvenil</p>
-                                            <p> Prof. Silvana Franzoi</p>
+                                            <p> Profª. Silvana Franzoi</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="1"></td>
@@ -162,7 +162,7 @@
                                         <td>
                                             <p><strong>Sapateado Americano</strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>Prof. Juliana Garcia</p>
+                                            <p>Profª. Juliana Garcia</p>
                                             <p><strong>TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -170,9 +170,9 @@
                                     <tr>
                                         <td><strong> 10h às 13h</strong></td>
                                         <td>
-                                            <p><strong>  </strong></p>
-                                            <p> </p>
-                                            <p>Prof. Suely Machado </p>
+                                            <p><strong> Palestra </strong></p>
+                                            <p> Paixão, reconstrução - Um Caminho Inusitado </p>
+                                            <p>Profª. Suely Machado </p>
                                             <p><strong>BIBLIOTECA MUNICIPAL</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -188,7 +188,7 @@
                                         <td>
                                             <p><strong>Jazz</strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>Prof. Eliane Fetzer</p>
+                                            <p>Profª. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="1"></td>
@@ -218,7 +218,7 @@
                                         <td>
                                             <p><strong> Danças Urbanas </strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p> Prof. Fran Manson</p>
+                                            <p> Profª. Fran Manson</p>
                                             <p><strong> TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -228,7 +228,7 @@
                                         <td>
                                             <p><strong>Danças Árabes</strong></p>
                                             <!-- <p> Improvisação em Dança</p> -->
-                                            <p> Prof. Dani Nur</p>
+                                            <p> Profª. Dani Nur</p>
                                             <p><strong> TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -256,13 +256,13 @@
                                         <td>
                                             <p><strong>Ballet Clássico</strong></p>
                                             <p> Infantil / Juvenil</p>
-                                            <p> Prof. Silvana Franzoi</p>
+                                            <p> Profª. Silvana Franzoi</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td>
                                             <p><strong> Sapateado Americano</strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>Prof. Juliana Garcia</p>
+                                            <p>Profª. Juliana Garcia</p>
                                             <p><strong>TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -288,7 +288,7 @@
                                         <td>
                                             <p><strong>Jazz</strong></p>
                                             <p>Inter/Avançado</p>
-                                            <p>Prof. Eliane Fetzer</p>
+                                            <p>Profª. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -318,7 +318,7 @@
                                         <td>
                                             <p><strong> Danças Urbanas </strong></p>
                                             <p> Inter/Avançado </p>
-                                            <p> Prof. Fran Manson </p>
+                                            <p> Profª. Fran Manson </p>
                                             <p><strong> TENDA 2 - TMTV </strong></p>
                                         </td>
                                         <td colspan="2"></td>

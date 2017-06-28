@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Festival DancAção 2017</title>
+        <title>Festival DançAção 2017</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -36,10 +36,10 @@
             <div class="container">
                 <h2 class="title margin-bottom-25">Cursos e Palestras</h2>
                 <div class="margin-bottom-25">
-                    <p class="text-justify margin-bottom-25">O Festival DancAção oferece em sua programação de cursos e palestras três linhas de aulas:</p>
-                    <p>- Cursos destinados a bailarinos;</p>
-                    <p>- Cursos para professores e/ou profissionais da dança e</p>
-                    <p>- Oficinas para a popilação em geral.</p>
+                    <p class="text-justify margin-bottom-25">O Festival DançAção oferece em sua programação de cursos e palestras três linhas de aulas:</p>
+                    <p> - Cursos e Palestras destinados a bailarinos;</p>
+                    <p> - Cursos e Palestras para professores e/ou profissionais da dança e</p>
+                    <p> - Oficinas para a população em geral.</p>
                 </div>
                 <div class="text-center">
                     <a href="http://festivaldancacao.com.br/cursos-e-palestras" class="btn-pad">Veja os cursos e palestras oferecidos e inscreva-se</a>

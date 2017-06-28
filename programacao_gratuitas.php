@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Festival DancAção 2017</title>
+        <title>Festival DançAção 2017</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -44,6 +44,7 @@
             </div>
         </section>
         <section class="bg-gray-light clearfix" id="mostra">
+            <h2 class="title text-uppercase text-center">Palestras com grandes nomes da dança nacional</h2>
             <h2 class="title text-uppercase text-center">Oficinas Gratuitas </h2>
             <h3 class="text-center" style="background-color: #f6f6f6; padding: 10px 0;">
                 LOCAL: Diversos
@@ -65,7 +66,7 @@
                                         <td><strong>Hora <br /> 15h às 17h</strong></td>
                                         <td>
                                             <p><strong>Danças Circulares Clássico</strong></p>
-                                            <p>Prof. Maria Inês Moron</p>
+                                            <p>Profª. Maria Inês Moron</p>
                                             <p><strong>JARDIM BOTÂNICO</strong></p>
                                         </td>
                                         <td colspan="3">
@@ -75,7 +76,7 @@
                                         <td><strong> 15h15 às 16h45</strong></td>
                                         <td>
                                             <p><strong>Ballet para Crianças</strong></p>
-                                            <p>Prof. Doris Garcia</p>
+                                            <p>Profª. Doris Garcia</p>
                                             <p><strong>TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="3"></td>
@@ -84,7 +85,7 @@
                                         <td><strong> 15h15 às 17h15</strong></td>
                                         <td>
                                             <p><strong> Improvisação em Dança </strong></p>
-                                            <p>Prof. Graça Giradi</p>
+                                            <p>Profª. Graça Giradi</p>
                                             <p><strong>TENDA 1 - TMTV</strong></p>
                                         </td>
                                         <td colspan="3"></td>
@@ -111,7 +112,7 @@
                                         <td><strong>Hora <br /> 10h às 12h</strong></td>
                                         <td>
                                             <p><strong>Danças Circulares </strong></p>
-                                            <p>Prof. Maria Inês Moron</p>
+                                            <p>Profª. Maria Inês Moron</p>
                                             <p><strong>BIBLIOTECA MUNICIPAL</strong></p>
                                         </td>
                                         <td colspan="3"></td>
