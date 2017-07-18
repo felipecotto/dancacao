@@ -41,8 +41,13 @@
                     <p> - Cursos e Palestras para professores e/ou profissionais da dança e</p>
                     <p> - Oficinas para a população em geral.</p>
                 </div>
-                <div class="text-center">
+                <div class="text-center margin-bottom-25">
                     <a href="http://festivaldancacao.com.br/cursos-e-palestras" class="btn-pad">Veja os cursos e palestras oferecidos e inscreva-se</a>
+                </div>
+                <div class="row">
+                    <div class="col-md-offset-3 col-md-6 text-center">
+                        <p><strong>Comprando 3 ou mais cursos você pode parcelar sua compra em até três vezes pelo PagSeguro. Comprando 2 cursos o parcelamento pode ser feito em duas vezes.</strong></p>
+                    </div>
                 </div>
             </div>
         </section>

@@ -12,13 +12,15 @@
             </div>
         </div>
         <div class="row clearfix">
-            <h4 class="text-center text-uppercase">Realização</h4>
+           <!--  <h4 class="text-center text-uppercase">Realização</h4> -->
             <div class="col-md-offset-3 col-md-6">
                 <div class="">
                     <div class="col-md-6">
+                        <h4 class="text-center text-uppercase">Realização</h4>
                         <img src="assets/img/aspd-logo.png" class="img-responsive m_0_auto" alt="Patio Ciane Sorocaba">
                     </div>
                     <div class="col-md-6">
+                         <h4 class="text-center text-uppercase">Apoio</h4>
                         <img src="assets/img/logo-prefeitura.png" class="img-responsive m_0_auto" alt="Patio Ciane Sorocaba">
                     </div>
                 </div>

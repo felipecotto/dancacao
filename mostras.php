@@ -66,7 +66,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/renata-pacheco.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Renata Pacheco</h3>
-                                            <span>(jurada e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Graduada em Dança e Educação Física pela Universidade Metropolitana de Santos com especialização no Método Russo e Francês.</p>
@@ -82,7 +81,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/silvava-francoi.png" alt="Jurado" class="img-responsive img-circle m_0_auto">
                                             <h3>Silvana Franzoi</h3>
-                                            <span>(jurada e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Formada pela Escola Municipal de Bailados de São Paulo e pela Especial Academia de Ballet. Teve como Professores os Mestres Toshie Kobayashi, Aracy de Almeida, Aracy Evans, Jacy Rhormens e Gil Saboya.</p>
@@ -111,7 +109,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/anselmo-zola.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Alselmo Zola</h3>
-                                            <span>(jurado)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Natural de Bebedouro, interior de São Paulo, o coreógrafo tem formação em Balé Clássico, Dança Moderna e Jazz.</p>
@@ -130,11 +127,10 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/bruno-gregorio.png" alt="Jurado" class="img-responsive img-circle m_0_auto">
                                             <h3>Bruno Gregório</h3>
-                                            <span>(jurado e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
-                                            <p>Bailarino profissional, professor e coreografo formado pelo conservatório maestro Henrique Castellari. Fora do Brasil  estudou no Pacific Dance Arts em Vancouver - Canadá e com o coaching Brian Nolan em Melbourne - Australia . Dançou profissionalmente pelas vias Faces Ocultas Cia de Dança, Science Friction Productions e desde 2009 é bailarino do Balé da Cidade de São Paulo trabalhando com coreógrafos do mundo todo.</p>
-                                            <p>Suas aulas visam aprofundar o aspecto sensorial da dança contemporânea, convidando os bailarinos a aguçarem os sentidos além da estética. Através de sequências pré-estabelecidas e baseadas em fundamentos  de dança contemporânea, preparação corporal, técnicas de improviso e estímulos sensoriais, seu curso irá propor diferentes texturas de expressão com muita riqueza e qualidade.</p>
+                                            <p>Bailarino profissional, professor e coreógrafo formado pelo conservatório maestro Henrique Castellari. Fora do Brasil  estudou no Pacific Dance Arts em Vancouver - Canadá e com o coaching Brian Nolan em Melbourne - Australia . Dançou profissionalmente pelas Cias Faces Ocultas Cia de Dança, Science Friction Productions e desde 2009 é bailarino do Balé da Cidade de São Paulo trabalhando com coreógrafos do mundo todo.</p>
+                                            <p>Suas aulas vem aprofundar o aspecto sensorial da dança contemporânea, convidando os bailarinos a aguçarem os sentidos além da estética. Através de sequências pré-estabelecidas e baseadas em fundamentos  de dança contemporânea, preparação corporal, técnicas de improviso e estímulos sensoriais, seu curso irá propor diferentes texturas de expressão com muita riqueza e qualidade.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -142,7 +138,7 @@
                         </div>
                     </div>
                     <!-- Panel 03 -->
-                    <div class="panel panel-default">
+<!--                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <div class="container">
                                 <h4 class="panel-title">
@@ -157,7 +153,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/jolles-salles.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Jolles Salles</h3>
-                                            <span>(jurado e professor)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Estudou na escola de Dança Maria Olinewa e em grandes escolas de Ballet nos EUA, como New York City, Step Up e Joffrey Ballet School. Tem conhecimento em métodos Russo e Cubano. </p>
@@ -170,11 +165,11 @@
                                             <p>Atualmente é coach de grandes talentos Brasileiros que atuam em escolas de ballet e em Cia no exterior, jurado e administra aulas em diversos festivais nacionais e internacionais.</p>
                                             <p>Joles Sales dirigi, hoje, a sua própria Cia Circuito de Danças Clássicas Jolles Salles São Paulo. </p>
                                         </div>
-                                    </div>
+                                    </div> 
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Panel 04 -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -191,7 +186,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/eliana-fetzer.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Eliane Fetzer</h3>
-                                            <span>(jurada e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Iniciou seus estudos em dança no Rio Grande do Sul.</p>
@@ -208,10 +202,9 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/edson-santos.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Edson Santos</h3>
-                                            <span>(jurado)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
-                                            <p>Professor e coreógrafo de jazz e suas linhas, responsável pela direção artística e coreografias da Cia Independente de Dança de SP, membro do comitê de especialistas de pesquisa desenvolvida pelo Laboratório de Biomecânica do Movimento e da Postura Humana da USP e uns dos responsáveis pelo Primeiro Curso de Capacitação de Professores em Jazz Dance do país.</p>
+                                            <p>Professor e coreógrafo de jazz e suas linhas, responsável pela direção artística e coreográfica da Cia Independente de Dança de SP. </p><p> Membro do comitê de especialistas de pesquisa desenvolvida pelo Laboratório de Biomecânica do Movimento e da Postura Humana da USP e um dos responsáveis pelo Primeiro Curso de Capacitação de Professores em Jazz Dance do país.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -234,7 +227,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/juliana-garcia.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Juliana Garcia</h3>
-                                            <span>(jurada e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Formada em Psicologia e pós-graduada em Psicopedagogia, Juliana Garcia iniciou seus estudos de sapateado em 1993. Nesses 24 anos, acumulou prêmios e destaques em diversos festivais por todo o Brasil, como o de maior nota do Festival Dança Ribeirão em 2005, representando sua cidade no Mapa Cultural Paulista e o de melhor sapateadora em 2009 no mesmo festival. </p>
@@ -250,7 +242,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/kika-sampaio.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Kika Sampaio</h3>
-                                            <span>(jurada)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Kika Sampaio é professora coreógrafa e diretora do Kika Tap Center, especializada em sapateado americano e representante oficial do Método de ensino Kahnotation há mais de 35 anos. Especializou-se com inúmeros professores americanos e estudou em Londres, California e New York sendo o seu mentor Stanley Kahn. </p>
@@ -278,7 +269,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/fernanda-paez.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Fernanda Faez</h3>
-                                            <span>(jurada e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Fernanda Faez é Bacharel em Dança pelo Departamento de Artes Corporais na UNICAMP (ênfase em Danças do Brasil sob o ponto de vista técnico, antropológico e cultural), especialização em Dança Movimento Terapia pelo CEFID, Titulada T.C.R.G. pela An Coimisiún le Rincí Gaelacha, fundadora da Banana Broadway (Campinas-SP), escola de referência em Sapateado Americano, Dança Irlandesa e Tecido Acrobático.</p>
@@ -296,7 +286,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/paula-sabbatino.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Paula Sabbatino</h3>
-                                            <span>(jurada)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Paula Sabbatino iniciou seus estudos em dança no Grupo Cultural de Dança - Ilha (RJ) em 1991. Em 1998 obteve o registro do Sindicato de Dança do RJ.                      Atua como professora e coreógrafa desde 2003, e no Rio de Janeiro deu aulas no Grupo Cultural de Dança, Casa de Cultura Elbe de Holanda, In'Cena Cia de Dança, Slava Goulenko e Espaço Feodorova.</p>
@@ -331,7 +320,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/fran-manson.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Fran Manson</h3>
-                                            <span>(jurada e professora)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Fran Manson dança a 23 anos. Dentre esse tempo passou pelo balé clássico, jazz, contemporâneo, dança afro e ginástica rítmica até se aprofundar nas danças urbanas no ano de 2005. Seus estilos de maiores estudos nessa área são o Hip Hop Dance, Vogue e Waacking. Atualmente também trabalha com o estilo Jazz Funk, uma ramificação das danças urbanas.</p>
@@ -343,7 +331,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/octavio-nassur.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Octávio Nassur</h3>
-                                            <span>(jurado e palestrante)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Idealizador e coordenador geral do FIH2 Festival Internacional de Hip Hop, do Brasil Tap Jazz Festival Internacional de Dança e do Seminário Nacional de Composição Coreográfica para Dança de Salão.</p>
@@ -384,11 +371,10 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/dani-nur.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Dani Nur</h3>
-                                            <span>(professora, jurada e cia convidada)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Conhecida por seu jeito alegre e irreverente, ela leva a arte da Dança do Ventre com um sorriso no rosto!</p>
-                                            <p> seus estudos em dança árabe em 1997, com a bailarina Soraia Zaied e assim começou o contato maior com outros grandes nomes da Dança do Ventre.</p>
+                                            <p> Iniciou seus estudos em dança árabe em 1997, com a bailarina Soraia Zaied e assim começou o contato maior com outros grandes nomes da Dança do Ventre.</p>
                                             <p>Em 2001, ingressou no time de bailarinas da casa de chá Khan’elKhalili, onde dança até hoje.</p>
                                             <p>Em 2004/2005, trabalhou como bailarina em Abu Dabi (Emirados árabes). </p>
                                             <p>Bailarina, professora e coreógrafa da dança oriental, atua no mercado desde 2001, como Bailarina Noites no Harém da Casa de Chá Khan El Khalili e professora Centro Cultural Shangrila.</p>
@@ -401,13 +387,12 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/mahina-hasan.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Mahina Hasan</h3>
-                                            <span>(jurada)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Com 17 anos de experiência em Dança Oriental (Dança do Ventre) Mahira Hasan é Produtora, Professora, Coreografa e Bailarina com DRT, atuando profissionalmente desde 2004. É conhecida pelo seu know how de produzir eventos e gerenciar seu empreendimento, sua credibilidade é reconhecida por produtores internacionais. Mahira lidera um Grupo de danças árabes com diversos títulos e o principal, como Campeão Brasileiro de dança do ventre em 2013.</p>
                                             <p>Teve experiências internacionais, com shows no Egito em 2008 / Paraguai em 2010 / Argentina em 2006 e 2011. Foi contratada para ministrar aulas e realizar shows em muitas cidades e estados do Brasil e atualmente concilia a vida empreendedora com algumas viagens. Em sua carreira conquistou diversos títulos importantes dentre eles o de Campeã Interamericana, Noite da Conquista Luxor e o título de bailarina Noites no Harém na casa de chá Khan el Khalili, participou de diversos programas de tv e desde 2007 é bailarina das principais noites árabes e restaurantes de São Paulo.</p>
                                             <p>Ministra aulas e trabalha ao lado da maior referência de dança do ventre no Brasil Lulu Sabongi. Desde 2010 tem um trabalho social com mulheres com síndrome de down, e abre as portas de sua escola semanalmente para se dedicar e ensina-las um pouco de dança. Em 2012 inaugurou sua escola de dança, com um diferencial no mercado “MAHIRA HASAN DANÇAS PARA MULHERES”. Atualmente , 4 anos depois de inaugurar sua escola, tornou-se referência em seu segmento e trabalha com os profissionais mais reconhecidos do mercado.</p>
-                                            <p>Em 2014 foi capa da edição 21 da principal revista de dança do ventre “Shimmie” no mesmo ano gravou seu primeiro DVD didático com o tema “Dança Clássica”. No ano de 2015, Mahira ministrou workshop e fez um show no maior evento de dança do ventre da America Latina, Mercado persa. Mahira é reconhecida por muitas funções, dentre tantas, o de protetora de animais. Em sua dança, tem um quadril marcante e inesquecível além de uma leitura musical e uma emoção marcante. Sua postura e o amor pelas bailarinas egípcias deixam sua dança imprevisível.</p>
+                                            <p>Em 2014 foi capa da edição 21 da principal revista de dança do ventre “Shimmie” no mesmo ano gravou seu primeiro DVD didático com o tema “Dança Clássica”. No ano de 2015, Mahira ministrou workshop e fez um show no maior evento de dança do ventre da América Latina, Mercado Persa. Mahira é reconhecida por muitas funções, dentre tantas, o de protetora de animais. Em sua dança, tem um quadril marcante e inesquecível além de uma leitura musical e uma emoção marcante. Sua postura e o amor pelas bailarinas egípcias deixam sua dança imprevisível.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -430,7 +415,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/andre-pimentel.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>André Pimentel</h3>
-                                            <span>(professor de flamenco, jurado e bailarino convidado)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>André Pimentel é artista plástico formado pela FAAP 1995, professor de história da arte ocidental e desde 1998 bailarino e professor de dança flamenca em SP.</p>
@@ -460,7 +444,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/rodrigo-karina.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Rodrigo Oliveira e Karina Carvalho</h3>
-                                            <span>(professores, jurados e cia convidada)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Rodrigo Oliveira com 18 anos dedicados à dança, e Karina Carvalho, com 25 anos – um dos casais mais conceituados da dança de salão do Brasil, são idealizadores do Clube Latino Escola de Dança e diretores artísticos da Cia Clube Latino.</p>
@@ -490,7 +473,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/suely-machado.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Suely Machado</h3>
-                                            <span>(jurada)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Suely Machado, mineira, psicóloga (Licenciatura e Bacharelado pela PUC/MG), com especialização em Coreoterapia e Psicomotricidade, curso de extensão em Pedagogia do movimento para o ensino da dança (Escola de Belas Artes – UFMG). Bailarina e coreógrafa formada em Dança Moderna possui extenso currículo de cursos com expoentes da dança nacional e internacional. Diretora do Grupo de Dança Primeiro Ato e do 1º Ato Centro de Dança desde 1982. Presidente da Associação Mineira de Dança Artística e Acadêmica - UNIDANÇA, desde 1996. Membro da comissão de seleção da Bolsa Vitae - 2003 e 2004. Dirige e produz os espetáculos do Grupo de Dança Primeiro Ato. Coordena a Oficina Criação do Gesto e Oficina Preparação Corporal para atores, ministradas em várias cidades brasileiras e em tournées do Grupo de dança 1º Ato.</p>
@@ -501,7 +483,6 @@
                                         <div class="col-sm-5 col-md-4 text-center">
                                             <img src="assets/img/jurados/octavio-nassur.png" alt="Jurado" class="img-responsive m_0_auto">
                                             <h3>Octavio Nassur</h3>
-                                            <span>(jurado e palestrante)</span>
                                         </div>
                                         <div class="col-sm-7 col-md-8">
                                             <p>Idealizador e coordenador geral do FIH2 Festival Internacional de Hip Hop, do Brasil Tap Jazz Festival Internacional de Dança e do Seminário Nacional de Composição Coreográfica para Dança de Salão.</p>

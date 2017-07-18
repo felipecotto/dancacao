@@ -62,7 +62,7 @@
                     </div>
                     <div class="bg-white section-3">
                         <img src="assets/img/dia17.jpg" class="img-responsive" alt="">
-                        <p><strong>ABERTURA:</strong> Companhias Convidadas </p> 
+                        <p><strong>ABERTURA:</strong> Cia Convidada: Balé da Cidade de Santos </p> 
                         <hr>
                         <p><strong>COMPETIÇÃO - GÊNEROS, SUBGÊNEROS E CATEGORIAS:</strong></p>
                         <p><strong>Ballet Clássico Livre:</strong> Solo (fem e masc) | Duo | Trio: Infantil - Juvenil -
@@ -89,7 +89,7 @@
                     </div>
                     <div class="bg-white section-3">
                         <img src="assets/img/dia18.jpg" class="img-responsive" alt="">
-                        <p><strong>ABERTURA:</strong> Companhias convidadas</p> 
+                        <p><strong>ABERTURA:</strong> Cia Convidada: São Paulo Cia de Dança</p> 
                         <hr>
 
                         <p><strong>COMPETIÇÃO - GÊNEROS, SUBGÊNEROS E CATEGORIAS:</strong></p>
@@ -105,7 +105,7 @@
                         <hr>
                         <p><strong>Jurados:</strong>Silvana Franzoi | Renata Pacheco | Paula Sabbatino | Fernanda Faez | Octávio Nassur | Suely Machado</p>
                         <hr>
-                        <p><strong>ENCERRAMENTO:</strong> Grupos Convidados </p>
+                        <p><strong>ENCERRAMENTO:</strong> Participação Especial do Grupo da 3ª Idade  e do Grupo Sem Limites </p>
                     </div>
                 </div>
 
@@ -123,7 +123,7 @@
                     </div>
                     <div class="bg-white section-3">
                         <img src="assets/img/dia1.jpg" class="img-responsive" alt="">
-                        <p><strong>ABERTURA:</strong> Companhias convidadas</p>
+                        <p><strong>ABERTURA:</strong> Cia Convidada: Faces Ocultas Cia de Dança</p>
                         <hr>
                         <p><strong>COMPETIÇÃO - GÊNEROS, SUBGÊNEROS E CATEGORIAS:</strong></p>
                         <p><strong>Sapateado Americano:</strong> Solo (fem e masc): Adulto - Avançado | Duo | Trio: Juvenil - Adulto - Avançado | Conjunto: Infantil - Juvenil - Adulto - Avançado</p>
@@ -133,7 +133,7 @@
                         <hr>
                         <p><strong>Jurados:</strong> Juliana Garcia | Kika Sampaio | Bruno Gregorio | Anselmo Zola | Dani Nur | Mahira Hasan | Karina Carvalho | Rodrigo Oliveira | Octávio Nassur | Suely Machado</p>
                         <hr>
-                        <p><strong>ENCERRAMENTO:</strong> Grupos Convidados</p>
+                        <p><strong>ENCERRAMENTO:</strong> Apresentação Dança de Salão: Rodrigo Oliveira e Karina Carvalho</p>
                     </div>
                 </div>
 
@@ -152,7 +152,7 @@
                     <div class="bg-white section-3">
                         <img src="assets/img/dia4.jpg" class="img-responsive" alt="">
 
-                        <p><strong>ABERTURA:</strong> Companhia convidada</p>
+                        <p><strong>ABERTURA:</strong> Cia Convidada: Raça Cia de Dança</p>
                         <hr>
                         <p><strong>COMPETIÇÃO - GÊNEROS, SUBGÊNEROS E CATEGORIAS:</strong></p>
                         <p><strong>Jazz:</strong> Conjunto: Infantil - Juvenil - Adulto - Avançado</p>
@@ -161,7 +161,7 @@
                         <hr>
                         <p><strong>Jurados:</strong> Edson Santos | Eliane Fetzer | André Pimentel | Fran Manson | Octávio Nassur | Suely Machado </p>
                         <hr>
-                        <p><strong>ENCERRAMENTO:</strong> Grupos Convidados </p>
+                        <p><strong>ENCERRAMENTO:</strong> Participação Especial do CTG de Sorocaba e do Grupo Ritmo das Tribos </p>
                     </div>
                 </div>
             </div>
