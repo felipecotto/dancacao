@@ -1,2 +1,2 @@
 # dancacao
-Website para o festival Dancacao 2017
+Website para o festival DançAção 2017
