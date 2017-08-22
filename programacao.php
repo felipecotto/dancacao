@@ -105,7 +105,7 @@
                         <hr>
                         <p><strong>Jurados:</strong>Silvana Franzoi | Renata Pacheco | Paula Sabbatino | Fernanda Faez | Octávio Nassur | Suely Machado</p>
                         <hr>
-                        <p><strong>ENCERRAMENTO:</strong> Participação Especial do Grupo da 3ª Idade  e do Grupo Sem Limites </p>
+                        <p><strong>ENCERRAMENTO:</strong> Participação Especial do Grupo da 3ª Idade Viva Dança e do Grupo Sem Limites </p>
                     </div>
                 </div>
 
@@ -128,6 +128,9 @@
                         <p><strong>COMPETIÇÃO - GÊNEROS, SUBGÊNEROS E CATEGORIAS:</strong></p>
                         <p><strong>Sapateado Americano:</strong> Solo (fem e masc): Adulto - Avançado | Duo | Trio: Juvenil - Adulto - Avançado | Conjunto: Infantil - Juvenil - Adulto - Avançado</p>
                         <p><strong>Contemporâneo:</strong> Solo (fem e masc) | Duo | Trio:  Adulto - Avançado | Conjunto: Infantil - Juvenil - Adulto - Avançado </p>
+                        <hr>
+                        <p><strong>ABERTURA DA SEGUNDA PARTE:</strong> Dani Nur </p>
+                        <hr>
                         <p><strong>Danças Árabes:</strong> Solo (fem) | Duo: Juvenil - Adulto - Avançado | Conjunto: Infantil - Juvenil - Adulto - Avançado </p>
                         <p><strong>Dança de Salão:</strong> Duplas e Conjunto de Duplas: Adulto - Avançado</p>
                         <hr>
@@ -157,6 +160,9 @@
                         <p><strong>COMPETIÇÃO - GÊNEROS, SUBGÊNEROS E CATEGORIAS:</strong></p>
                         <p><strong>Jazz:</strong> Conjunto: Infantil - Juvenil - Adulto - Avançado</p>
                         <p><strong>Danças Populares:</strong> Solo (fem e masc): Adulto - Avançado | Conjunto: Infantil - Juvenil - Adulto - Avançado</p>
+                        <hr>
+                        <p><strong>ABERTURA DA SEGUNDA PARTE:</strong> Kahal Cia de Dança </p>
+                        <hr>
                         <p><strong>Danças Urbanas:</strong> Solo (fem e masc) | Duo | Trio: Juvenil - Adulto - Avançado | Conjunto: Infantil - Juvenil - Adulto - Avançado</p>
                         <hr>
                         <p><strong>Jurados:</strong> Edson Santos | Eliane Fetzer | André Pimentel | Fran Manson | Octávio Nassur | Suely Machado </p>

@@ -39,6 +39,9 @@
                 <div class="text-center">
                     <h3 class="title">Regulamento</h3>
                     <a href="docs/regulamento_dancacao_2017.pdf" download class="btn-pad">Baixar versão PDF</a>
+
+                    <h3 class="title"> Autorização para menores</h3>
+                    <a href="docs/AUTORIZAÇÃO-MENORES_DANÇAÇÃO-2017.doc" download class="btn-pad">Baixar documento</a>
                 </div>
             </div>
         </section>

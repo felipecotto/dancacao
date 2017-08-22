@@ -288,6 +288,56 @@ aside.social-media a i.fa-envelope-o {
 	text-align: center;
 }
 
+.table-resultados {
+	margin-bottom: 25px; 
+}
+
+.table-resultados.table>tbody>tr>td {
+	border-color: transparent;
+}
+
+.table-resultados.table>thead>tr>th {
+	border-color: #911e75;
+	text-align: center; 
+}
+
+.nav-tabs-resultados {
+	margin-bottom: 30px;
+	border: none;
+}
+
+.nav-tabs-resultados.nav-tabs>li>a {
+	color: #333;
+    border: none;
+    border-right: solid 1px #333;
+    border-radius: 0;
+    font-weight: bold;
+}
+
+.nav-tabs-resultados.nav-tabs>li:last-child>a {
+	border: none;
+}
+
+.nav-tabs-resultados.nav-tabs>li.active>a, 
+.nav-tabs-resultados.nav-tabs>li.active>a:focus, 
+.nav-tabs-resultados.nav-tabs>li.active>a:hover {
+	color: #911e75;
+    font-weight: bold;
+}
+
+.nav-tabs-resultados.nav-tabs>li.active>a, 
+.nav-tabs-resultados.nav-tabs>li.active>a:focus, 
+.nav-tabs-resultados.nav-tabs>li.active>a:hover {
+    border: none;
+    border-right: 1px solid #333;
+}
+
+.nav-tabs-resultados.nav-tabs>li:last-child.active>a, 
+.nav-tabs-resultados.nav-tabs>li:last-child.active>a:focus, 
+.nav-tabs-resultados.nav-tabs>li:last-child.active>a:hover {
+    border: none;
+}
+
 /*Helpers*/
 .atalhos a {
 	color: #333; 
@@ -308,6 +358,14 @@ aside.social-media a i.fa-envelope-o {
 
 .f-weight-700 {
 	font-weight: 700;
+}
+
+.p-15-0 {
+	padding: 15px 0;
+}
+
+.m-0 {
+	margin: 0; 
 }
 
 .m_0_auto {
@@ -332,6 +390,10 @@ aside.social-media a i.fa-envelope-o {
 
 .bg-gray-light {
 	background-color: #efefef;
+}
+
+.c-yellow {
+	color: #c78819; 
 }
 
 .border-banner {

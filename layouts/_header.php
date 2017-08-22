@@ -20,6 +20,7 @@
 				  <span class="caret"></span></a>
 				  <ul class="dropdown-menu">
 				    <li><a href="mostras.php#home">Mostra Competitiva</a></li>
+				    <li><a href="mostras-resultado.php#home">Resultados</a></li>
 				    <li><a href="mostra-nao-competitiva.php#home">Mostra não competitiva</a></li>
 				  </ul>
 				</li>

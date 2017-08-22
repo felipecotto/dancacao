@@ -67,26 +67,18 @@
                                         <td>
                                             <p><strong>Danças Circulares Clássico</strong></p>
                                             <p>Profª. Maria Inês Moron</p>
-                                            <p><strong>JARDIM BOTÂNICO</strong></p>
+                                            <p><strong>BIBLIOTECA MUNICIPAL</strong></p>
                                         </td>
                                         <td colspan="3">
                                         </td>
                                     </tr>
+
                                     <tr>
-                                        <td><strong> 15h15 às 16h45</strong></td>
-                                        <td>
-                                            <p><strong>Ballet para Crianças</strong></p>
-                                            <p>Profª. Doris Garcia</p>
-                                            <p><strong>TENDA 3 - TMTV</strong></p>
-                                        </td>
-                                        <td colspan="3"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong> 15h15 às 17h15</strong></td>
+                                        <td><strong> 15h às 17h </strong></td>
                                         <td>
                                             <p><strong> Improvisação em Dança </strong></p>
                                             <p>Profª. Graça Giradi</p>
-                                            <p><strong>TENDA 1 - TMTV</strong></p>
+                                            <p><strong>TENDA 3 - TMTV</strong></p>
                                         </td>
                                         <td colspan="3"></td>
                                     </tr>
@@ -127,6 +119,15 @@
                                         </td>
                                         <td colspan="3"></td>
                                     </tr>
+                                    <tr>
+                                        <td><strong> 15h15 às 16h45</strong></td>
+                                        <td>
+                                            <p><strong>Ballet 5 à 8 anos</strong></p>
+                                            <p>Profª. Doris Garcia</p>
+                                            <p><strong>TENDA 2 - TMTV</strong></p>
+                                        </td>
+                                        <td colspan="3"></td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -155,7 +156,7 @@
                                         <td colspan="3"></td>
                                     </tr>
                                     <tr>
-                                        <td> <strong>15h15 às 16h45</strong></td>
+                                        <td> <strong>15h45 às 17h15</strong></td>
                                         <td>
                                             <p><strong>Dança Sociais</strong></p>
                                             <p> Prof. Eduardo Carriel </p>

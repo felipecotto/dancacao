@@ -98,7 +98,7 @@
                                         <td>
                                             <p><strong> Palestra </strong></p>
                                             <p>Concepção Coreográfica</p>
-                                            <p>Simone Carvalho</p>
+                                            <p>Simone Camargo</p>
                                             <p><strong>BIBLIOTECA MUNICIPAL</strong></p>
                                         </td>
                                         <td colspan="2"></td>
@@ -194,7 +194,7 @@
                                         <td colspan="1"></td>
                                     </tr>
                                     <tr>
-                                        <td><strong> 10h45 às 12h15 </strong></td>
+                                        <td><strong> 13h às 17h15 </strong></td>
                                         <td>
                                             <p><strong> Palestra </strong></p>
                                             <p>Concepção de Figurino</p>
@@ -268,7 +268,7 @@
                                         <td colspan="2"></td>
                                     </tr>
                                     <tr>
-                                        <td>10h às 13h</strong></td>
+                                        <td><strong>10h às 13h</strong></td>
                                         <td>
                                             <p><strong>Palestra</strong></p>
                                             <p>"Nada é por acaso"</p>
@@ -291,7 +291,13 @@
                                             <p>Profª. Eliane Fetzer</p>
                                             <p><strong>TENDA 2 - TMTV</strong></p>
                                         </td>
-                                        <td colspan="2"></td>
+                                        <td>
+                                            <p><strong> Sapateado Americano</strong></p>
+                                            <p>Inter/Avançado</p>
+                                            <p>Profª. Juliana Garcia</p>
+                                            <p><strong>TENDA 3 - TMTV</strong></p>
+                                        </td>
+                                        <td colspan="1"></td>
                                     </tr>
                                     <tr>
                                         <td><strong> 13h30 às 15h</strong></td>
